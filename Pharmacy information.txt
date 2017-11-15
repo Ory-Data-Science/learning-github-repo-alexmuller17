@@ -1,0 +1,6 @@
+Patient information
+Drug information
+Preexisting conditions
+Hospital information
+Insurance 
+Other medication the patient is taking
